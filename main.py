@@ -33,6 +33,7 @@ ib5 = InlineKeyboardButton(text='Пожертвовать',
 ikb1.add(ib5)
 
 
+
 # @dp.message_handler(content_types = ['new_chat_members', 'left_chat_member'])
 # async def delete(message):
 #     await bot.delete_message(message.chat.id, message.message_id)
